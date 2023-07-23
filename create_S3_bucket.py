@@ -10,7 +10,7 @@ bucket = aws_resource.Bucket("test-bucket-1985387234")
 response = bucket.create(
     ACL='public-read', #for private bucket, change 'public-read' to 'private'
     CreateBucketConfiguration={
-        'LocationConstraint': 'us-east-2'
+        'LocationConstraint': 'us-east-1'
     },
     
 )
