@@ -4,7 +4,7 @@
 #Delete your AWS Cloud9 environmentHeader anchor link
 #(optional) To download your work to your local environment. In Cloud9 select:
 
-#File
+#File``
 #Download Project
 #To delete the AWS Cloud9 environment that you used to run all your commands:
 
