@@ -1,5 +1,6 @@
 from selenium import webdriver
-import requests as rq
+import pip._vendor.requests
+# import requests as rq
 import os
 from bs4 import BeautifulSoup
 import time
